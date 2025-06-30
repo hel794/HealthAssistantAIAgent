@@ -1,12 +1,12 @@
 # HealthAssistantAIAgent
 
-2025北京大学人工智能基础大作业
+# 2025北京大学人工智能基础大作业
 
-HealthAssistant智能健康管理师
+# HealthAssistant智能健康管理师
 
 基于DeepSeek-R1 AI的多代理健康咨询系统，提供专业健康管理建议，支持GUI和CLI两种交互模式。
 
-目录
+# 目录
 
 核心功能
 系统架构
