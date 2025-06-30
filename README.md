@@ -79,7 +79,9 @@
 # 使用说明
 
 **1.启动系统**
-```bash python main.py```
+```bash 
+python main.py
+```
 
 **2.常用命令**
 
