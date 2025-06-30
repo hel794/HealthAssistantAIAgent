@@ -69,17 +69,19 @@
 
 # 安装指南
 
-1.克隆仓库： 见cores
+**1.克隆仓库**： 见cores
 
-2.配置环境： 在API.env文件中填入自己的API
+**2.配置环境**： 
+在API.env文件中填入自己的API
 
-SILICONFLOW_API_KEY=您的API密钥
+```SILICONFLOW_API_KEY=您的API密钥```
 
 # 使用说明
 
-1.启动系统 bash python main.py
+**1.启动系统**
+```bash python main.py```
 
-2.常用命令
+**2.常用命令**
 
 # 命令&功能
 
