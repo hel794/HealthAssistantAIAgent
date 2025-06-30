@@ -118,18 +118,19 @@ SILICONFLOW_API_KEY=您的API密钥
 
 json
 
-{
+`{
 
-"content": "回复内容",
+  "content": "回复内容",
 
-"sources": ["《中国居民膳食指南》"],
+  "sources": ["《中国居民膳食指南》"],
 
-"advice_type": "general/diet/exercise/warning",
+  "advice_type": "general/diet/exercise/warning",
 
-"needs_follow_up": false,
+  "needs_follow_up": false,
 
-"confidence": 0.95
-}
+  "confidence": 0.95
+
+}`
 
 # 免责声明
 
