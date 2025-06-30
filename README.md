@@ -55,17 +55,17 @@
 
 ## 关键模块
 
-`模块           功能`
+`模块                功能        `
 
-agent_service.py 代理服务核心
+`agent_service.py   代理服务核心  `
 
-cli_interface.py 命令行交互逻辑
+`cli_interface.py   命令行交互逻辑`
 
-gui_tkinter.py 图形界面实现
+`gui_tkinter.py     图形界面实现  `
 
-history_manager.py 对话历史存储
+`history_manager.py 对话历史存储  `
 
-preprocessor.py 输入安全过滤
+`preprocessor.py    输入安全过滤  `
 
 # 安装指南
 
