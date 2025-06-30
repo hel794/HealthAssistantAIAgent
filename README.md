@@ -118,7 +118,7 @@ SILICONFLOW_API_KEY=您的API密钥
 
 json
 
-`{
+{
 
   "content": "回复内容",
 
@@ -130,7 +130,7 @@ json
 
   "confidence": 0.95
 
-}`
+}
 
 # 免责声明
 
